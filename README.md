@@ -1,0 +1,1 @@
+"# nimone-oop-typescript" 
